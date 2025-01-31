@@ -39,7 +39,7 @@
 		"@types/requirejs": "2.1.37",
 		"vue": "2.6.14",
 		"vue-loader-v16": "16.0.0-beta.5.4",
-		"rollup": "1.32.1",
+		"rollup": "2.79.2",
 		"rollup-plugin-commonjs": "10.1.0",
 		"rollup-plugin-node-resolve": "5.2.0",
 		"rollup-plugin-sourcemaps": "0.6.3",
